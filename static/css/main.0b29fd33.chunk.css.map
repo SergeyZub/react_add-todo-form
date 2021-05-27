@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,OACE,SACF,CAOA,aACE,iBAAkB,CAClB,gBACF","file":"main.0b29fd33.chunk.css","sourcesContent":[".error {\n  color: red;\n}\n\ninput {\n  margin-bottom: 5px;\n  margin-right: 5px;\n}\n\nselect {\n  margin-bottom: 5px;\n  margin-right: 5px;\n}\n"]}
